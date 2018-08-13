@@ -1,6 +1,6 @@
 # Audio Classifier Using DL
 
-Dataset: [gtzan-music-speech](http://opihi.cs.uvic.ca/sound/music_speech.tar.gz)
+Dataset: [gtzan-music-speech](http://opihi.cs.uvic.ca/sound)
 
 An audio classifier that is capable of classifying an audio as music or speech. The dataset consists of 128 tracks, each 30 seconds long. Each class (music/speech) has 64 examples. The tracks are all 22050Hz Mono 16-bit audio files in .wav format. 
 
